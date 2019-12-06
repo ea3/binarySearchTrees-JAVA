@@ -13,6 +13,6 @@ public class Main {
         intTree.insert(26);
         intTree.insert(22);
         intTree.insert(32);
-        
+
     }
 }
