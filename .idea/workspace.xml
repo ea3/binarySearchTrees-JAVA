@@ -3,14 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d9119027-c09b-4980-bf05-67e055f8e38f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BinarySearchTrees/dev/ea3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinarySearchTrees/dev/ea3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BinarySearchTrees/dev/ea3/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinarySearchTrees/dev/ea3/Tree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BinarySearchTrees/dev/ea3/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinarySearchTrees/dev/ea3/TreeNode.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dev/ea3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/ea3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dev/ea3/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/ea3/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dev/ea3/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dev/ea3/TreeNode.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,18 +28,6 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="dev.ea3.Main" />
@@ -61,6 +44,18 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -80,10 +75,30 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="793" height="268" key="GridCell.Tab.0.bottom" timestamp="1575959394762">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="793" height="268" key="GridCell.Tab.0.bottom/49.23.1631.1027@49.23.1631.1027" timestamp="1575959394762" />
+    <state width="793" height="268" key="GridCell.Tab.0.center" timestamp="1575959394761">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="793" height="268" key="GridCell.Tab.0.center/49.23.1631.1027@49.23.1631.1027" timestamp="1575959394761" />
+    <state width="793" height="268" key="GridCell.Tab.0.left" timestamp="1575959394761">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="793" height="268" key="GridCell.Tab.0.left/49.23.1631.1027@49.23.1631.1027" timestamp="1575959394761" />
+    <state width="793" height="268" key="GridCell.Tab.0.right" timestamp="1575959394762">
+      <screen x="49" y="23" width="1631" height="1027" />
+    </state>
+    <state width="793" height="268" key="GridCell.Tab.0.right/49.23.1631.1027@49.23.1631.1027" timestamp="1575959394762" />
   </component>
 </project>
